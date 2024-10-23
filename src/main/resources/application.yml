@@ -1,0 +1,5 @@
+myCustomVarTree:
+  authCode: xyz458
+  devName: Santo
+server:
+  port: 4500
